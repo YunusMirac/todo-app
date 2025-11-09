@@ -1,0 +1,12 @@
+# Python / Django (Backend-Umgebung)
+venv/
+__pycache__/
+*.pyc
+
+# Geheime Umgebungsvariablen (Das Wichtigste!)
+.env
+
+# OS-Dateien
+.DS_Store
+
+node_modules
